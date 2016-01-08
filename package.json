@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "apsl-react-native-button": "git+https://git@github.com/bartonhammond/react-native-button.git",
+    "firebase": "^2.3.2",
     "immutable": "^3.7.5",
     "key-mirror": "^1.0.1",
     "react-native": "^0.17.0",
